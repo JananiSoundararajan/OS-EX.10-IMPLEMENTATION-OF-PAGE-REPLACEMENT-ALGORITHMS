@@ -12,7 +12,7 @@ To write a C program to implement Page Replacement technique using FIFO.
 
 4.In FIFO, on the basics of first in first out, replace the pages respectively, then find number of page faults occurred.
 
-5.Compare all frames with incoming page�6. If the incoming page is already available in page frame, set the match flag to indicate ‘no need of page replacement’.
+5.Compare all frames with incoming page 6. If the incoming page is already available in page frame, set the match flag to indicate ‘no need of page replacement’.
 
 6.If the incoming page is not available in all frames, then remove the page which is loaded into the memory long back and give space for new incoming page.
 
@@ -76,7 +76,7 @@ To write a C program to implement Page Replacement technique using LRU.
 
 4.In LRU replace the page that has not been used for the longest period oftime.
 
-5.Compare all frames with incoming page�6. If the incoming page is already available in page frame, set the match flag to indicate ‘no need of page replacement’.
+5.Compare all frames with incoming page 6. If the incoming page is already available in page frame, set the match flag to indicate ‘no need of page replacement’.
 
 6.If the incoming page is not available in all frames, then remove the page which has not been used for the longest period of time.
 
